@@ -25,4 +25,8 @@ A low recall is indicative of a large number of false negatives.
 The models with the highest F1 score were Balanced Random Classifier and AdaBoost both with an F1 score of 1.00. 
 However, SMOTE had an F1 score of 0.81 and a low recall of 0.69. Indicating that SMOTE is a more accurate model. 
 
-![](/"https://github.com/AJMnd/Credit_Risk_Analysis/blob/main/Resources/SMOTE.png")
+https://github.com/AJMnd/Credit_Risk_Analysis/blob/main/Resources/SMOTE.png
+
+https://github.com/AJMnd/Credit_Risk_Analysis/blob/main/Resources/Rfc.png
+
+https://github.com/AJMnd/Credit_Risk_Analysis/blob/main/Resources/Ada.png
